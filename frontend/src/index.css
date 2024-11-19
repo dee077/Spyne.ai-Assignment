@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.underline-animation {
+  position: relative;
+}
+
+.underline-animation::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: -2px;
+  left: 0;
+  background-color: black;
+  visibility: hidden;
+  transform: scaleX(0.1);
+  transition: all 0.3s ease-in-out;
+}
+
+
+.underline-animation:hover::before {
+  visibility: visible;
+  transform: scaleX(0.8);
+}
+
+.no-scrollbar{
+  &::-webkit-scrollbar {
+    display: none;
+  }
+  /* Optional: Set scrollbar width to 0 for other browsers */
+  scrollbar-width: none;
+}
