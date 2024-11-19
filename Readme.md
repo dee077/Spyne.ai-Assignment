@@ -1,6 +1,6 @@
 # Spyne.ai Assignment Submission ✅
 
-### Live Link: [https://spyne.ai-assignment.deepanshu-sahu-projects.live/](https://spyne.ai-assignment.deepanshu-sahu-projects.live/)
+### Live Link: [spyne-ai-assignment.deepanshu-sahu-projects.live](spyne-ai-assignment.deepanshu-sahu-projects.live)
 
 ![ss](./frontend/src/images/ss.png)
 
