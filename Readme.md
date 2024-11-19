@@ -1,6 +1,6 @@
-# Spyne.ai MERN Stack Assignment Submission ✅
+# Spyne.ai Assignment Submission ✅
 
-### Live Link: [https://roxiler-assignment.deepanshu-sahu-projects.live/](https://roxiler-assignment.deepanshu-sahu-projects.live/)
+### Live Link: [https://spyne.ai-assignment.deepanshu-sahu-projects.live/](https://spyne.ai-assignment.deepanshu-sahu-projects.live/)
 
 ![ss](./frontend/src/images/ss.png)
 
