@@ -2,7 +2,7 @@
 
 ### Live Link: [spyne-ai-assignment.deepanshu-sahu-projects.live](spyne-ai-assignment.deepanshu-sahu-projects.live)
 
-![ss](./frontend/src/images/ss.png)
+![ss](./frontend/src/images/background.png)
 
 ### Postman Workspace: [Workspace Link](https://www.postman.com/flight-physicist-9054540/workspace/spyne-ai-assignment)
 
